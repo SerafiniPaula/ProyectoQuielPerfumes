@@ -1,6 +1,6 @@
 public class PPQuielPerfumes
 {
-    public static void Main (String[] args)
+    public static void main (String[] args)
     {
         System.out.println("Hola brooo");
     }
